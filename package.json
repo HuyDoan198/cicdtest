@@ -1,0 +1,28 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "8.1.1",
+    "npm": "5.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuyDoan198/cicdtest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HuyDoan198/cicdtest/issues"
+  },
+  "homepage": "https://github.com/HuyDoan198/cicdtest#readme"
+}
